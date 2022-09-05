@@ -80,7 +80,7 @@ const User = () => {
   const onSubmit = (user) => {
     if (!isAddMode) {
       let updatedData = data.map((item) => {
-        if (item.id == user.id) {
+        if (item.id === user.id) {
           return {
             ...item,
             firstName: user.firstName,
