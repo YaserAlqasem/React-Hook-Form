@@ -9,6 +9,7 @@ import {
   Button,
 } from "@mui/material";
 import { useForm } from "react-hook-form";
+import "./user.css";
 
 let users = [
   {
