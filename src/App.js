@@ -1,8 +1,13 @@
 import logo from "./logo.svg";
 import "./App.css";
+import User from "./Views/user";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <User />
+    </>
+  );
 }
 
 export default App;
