@@ -1,8 +1,8 @@
 @font-face {
   font-family: "Open Sans";
-  src: url("../public/fonts/opensans-variablefont_wdthwght-webfont.woff2")
+  src: url("../public/assets/fonts/opensans-variablefont_wdthwght-webfont.woff2")
   format('woff2'),
-  url("../public/fonts/opensans-variablefont_wdthwght-webfont.woff") format("woff");
+  url("../public/assets/fonts/opensans-variablefont_wdthwght-webfont.woff") format("woff");
 }
 
 body {
