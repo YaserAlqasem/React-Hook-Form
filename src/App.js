@@ -1,5 +1,5 @@
 import "./App.css";
-import User from "./Views/user";
+import User from "./Views/User";
 
 function App() {
   return (
